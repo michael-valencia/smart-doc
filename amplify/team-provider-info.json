@@ -1,15 +1,20 @@
 {
-  "dev": {
+  "master": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-smartdoc-dev-12712-authRole",
-      "UnauthRoleArn": "arn:aws:iam::451870155347:role/amplify-smartdoc-dev-12712-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::451870155347:role/amplify-smartdoc-dev-12712-authRole",
+      "AuthRoleName": "amplify-smartdoc-master-14307-authRole",
+      "UnauthRoleArn": "arn:aws:iam::451870155347:role/amplify-smartdoc-master-14307-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::451870155347:role/amplify-smartdoc-master-14307-authRole",
       "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-smartdoc-dev-12712-deployment",
-      "UnauthRoleName": "amplify-smartdoc-dev-12712-unauthRole",
-      "StackName": "amplify-smartdoc-dev-12712",
-      "StackId": "arn:aws:cloudformation:us-east-1:451870155347:stack/amplify-smartdoc-dev-12712/343d82f0-332f-11ee-9c1b-0a90c9b475ed",
-      "AmplifyAppId": "d3osp1t2uperee"
+      "DeploymentBucketName": "amplify-smartdoc-master-14307-deployment",
+      "UnauthRoleName": "amplify-smartdoc-master-14307-unauthRole",
+      "StackName": "amplify-smartdoc-master-14307",
+      "StackId": "arn:aws:cloudformation:us-east-1:451870155347:stack/amplify-smartdoc-master-14307/6d65db70-3331-11ee-9e00-0eb53940cf55",
+      "AmplifyAppId": "de66cyh6lxptt"
+    },
+    "categories": {
+      "auth": {
+        "smartdoc3aef7c62": {}
+      }
     }
   }
 }
