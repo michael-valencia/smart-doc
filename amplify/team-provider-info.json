@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-smartdoc-dev-12712-authRole",
+      "UnauthRoleArn": "arn:aws:iam::451870155347:role/amplify-smartdoc-dev-12712-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::451870155347:role/amplify-smartdoc-dev-12712-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-smartdoc-dev-12712-deployment",
+      "UnauthRoleName": "amplify-smartdoc-dev-12712-unauthRole",
+      "StackName": "amplify-smartdoc-dev-12712",
+      "StackId": "arn:aws:cloudformation:us-east-1:451870155347:stack/amplify-smartdoc-dev-12712/343d82f0-332f-11ee-9c1b-0a90c9b475ed",
+      "AmplifyAppId": "d3osp1t2uperee"
+    }
+  }
+}
